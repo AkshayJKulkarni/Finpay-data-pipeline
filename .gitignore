@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+.env
+*.pyc
+.DS_Store
+logs/
+.vscode/
+data/raw/
+data/processed/
+data/curated/
